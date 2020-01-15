@@ -1,0 +1,6 @@
+---
+
+- endpoint:
+    name: test
+    image: orasimus/bt:0.1
+    wsgi: deploy/server
